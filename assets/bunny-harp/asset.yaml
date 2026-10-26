@@ -1,28 +1,40 @@
+# descriptive: find it and understand it
 id: bunny-harp
-title: Bunny harp
-description: An upright brown rabbit facing right plays an orange and gold harp.
+title: Rabbit playing a harp
+description: A tan rabbit with long upright ears stands on its hind legs and plucks an orange and gold harp held in front of it; it faces right on a transparent background. Tall portrait cut-out.
 type: illustration
 categories:
   - animals
   - fantasy
   - music
 subjects:
+  - musician
   - rabbit
   - harp
 colors:
-  - brown
+  - tan
   - orange
   - gold
+  - black
 facing: right
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 140
+  - 520
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

@@ -1,6 +1,7 @@
+# descriptive: find it and understand it
 id: rabbit-reading-book
-title: Rabbit reading book
-description: A brown rabbit with tall ears and a wide white eye leans left over an open pale book, with a paw resting on the marked pages.
+title: Rabbit reading an open book
+description: A brown rabbit with tall ears crouches facing left and leans over an open book lying at the left, one paw resting on the written page; transparent background.
 type: illustration
 categories:
   - animals
@@ -11,18 +12,29 @@ subjects:
   - book
 colors:
   - brown
+  - tan
   - cream
   - white
 facing: left
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: readers
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Landscape cut-out (about 3:2) with the book at the lower left; pairs well with text on the left.
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 200
+  - 750
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

@@ -1,6 +1,7 @@
+# descriptive: find it and understand it
 id: bird-wind-player
-title: Bird wind player
-description: A dark bird-like creature with human arms and a pale blue patterned belly plays a long red and gold wind instrument facing left.
+title: Bird-like creature playing a shawm
+description: A dark speckled bird-like creature with a human arm, a pale blue patterned belly and clawed bird feet stands upright and blows a long red and gold shawm pointing down-left; it faces left on a transparent background.
 type: illustration
 categories:
   - animals
@@ -8,23 +9,35 @@ categories:
   - fantasy
   - music
 subjects:
+  - musician
   - bird-like-creature
+  - shawm
   - wind-instrument
+  - drollery
 colors:
   - black
-  - blue
-  - red
   - gold
+  - light-blue
+  - red
 facing: left
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

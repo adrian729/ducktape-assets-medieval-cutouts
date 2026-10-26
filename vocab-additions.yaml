@@ -1,42 +1,14 @@
-# Subjects used by the drafts of this set that are not in schemas/vocab/subjects.yaml.
-# Add the ones kept after review to the global vocabulary in the same PR; never merged automatically.
+# Subjects used by the reviewed records of this set that are not in schemas/vocab/subjects.yaml.
+# Add them to the global vocabulary in the same PR; never merged automatically.
 subjects:
-  - animal-like-creature
-  - bagpipes
-  - bells
-  - bird
-  - bird-like-creature
-  - boar
-  - book
-  - canine-like-creature
-  - cat
-  - cattle
-  - creature
-  - crown
-  - dancer
-  - dog-like-creature
-  - donkey
-  - drum
-  - fiddle
-  - fish
-  - frog
-  - gold-shape
-  - goose
-  - harp
-  - horn
-  - human
-  - lizard
-  - lute
-  - music-stand
-  - organ
-  - pig
-  - pipe
-  - psaltery
-  - rabbit
-  - rooster
-  - score
-  - shawm
-  - snail
-  - trumpet
-  - vine
-  - wind-instrument
+  - bull
+  - cap
+  - chair
+  - choir
+  - drollery
+  - fox
+  - grass
+  - hood
+  - pennant
+  - sheep
+  - wings

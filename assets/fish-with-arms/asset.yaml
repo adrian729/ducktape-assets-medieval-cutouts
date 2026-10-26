@@ -1,6 +1,7 @@
+# descriptive: find it and understand it
 id: fish-with-arms
-title: Fish with arms
-description: A blue-green fish faces right with two pale human arms raised above its back and red cloth between them.
+title: Fish with human arms raised
+description: A blue fish swims to the right while two human arms in an orange cloth rise from its back with open hands, a marginal drollery; transparent background.
 type: illustration
 categories:
   - animals
@@ -8,21 +9,32 @@ categories:
   - fantasy
 subjects:
   - fish
+  - creature
+  - drollery
 colors:
   - blue
-  - green
   - cream
-  - red
+  - orange
+  - green
 facing: right
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: creatures
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 640
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

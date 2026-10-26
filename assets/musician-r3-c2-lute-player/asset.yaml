@@ -1,28 +1,41 @@
+# descriptive: find it and understand it
 id: musician-r3-c2-lute-player
-title: Musician r3 c2 lute player
-description: A standing human wears a tilted green cap, red striped tunic, and long green robe, looking down toward the right while playing a pale lute extending right.
+title: Standing lutenist in a crenellated cap
+description: A standing musician in a green crenellated cap, a red tunic with white stripes and a long green cloak looks down to the right while plucking a pale lute whose round-ended neck points right; faces right on a transparent background.
 type: illustration
 categories:
   - humans
   - music
 subjects:
+  - musician
   - human
   - lute
+  - cap
 colors:
   - green
   - red
   - cream
-  - gold
+  - gray
 facing: right
+view: three-quarter
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Tall cut-out (2:3).
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 130
+  - 512
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

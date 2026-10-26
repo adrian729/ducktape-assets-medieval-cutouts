@@ -1,29 +1,42 @@
+# descriptive: find it and understand it
 id: white-animal-bagpiper
-title: White animal bagpiper
-description: A seated pale animal-like creature with rounded ears, a long curled tail, and hand-like forelimbs faces the viewer while playing gold bagpipes.
+title: White cat-like creature playing bagpipes
+description: A white cat-like creature with green eyes, a red tongue, a long curled tail and clawed hands sits facing the viewer and plays gold bagpipes, the chanter pointing down-left and the drone rising up-right; transparent background.
 type: illustration
 categories:
   - animals
   - fantasy
   - music
 subjects:
+  - musician
   - animal-like-creature
+  - cat
   - bagpipes
 colors:
   - white
-  - gray
   - gold
+  - gray
   - red
+  - green
 facing: viewer
+view: front
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

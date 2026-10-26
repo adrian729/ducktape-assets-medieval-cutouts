@@ -1,28 +1,40 @@
+# descriptive: find it and understand it
 id: musician-r3-c4-pipe-player
-title: Musician r3 c4 pipe player
-description: A seated curly-haired human facing right wears a pale blue and cream striped sleeveless outfit and red stockings, playing a short straight gold pipe.
+title: Seated musician playing a pipe
+description: A seated curly-haired musician in a loose white and pale blue striped tunic and red hose blows a short gold pipe that points to the right; faces right on a transparent background.
 type: illustration
 categories:
   - humans
   - music
 subjects:
+  - musician
   - human
   - pipe
+  - wind-instrument
 colors:
-  - blue
   - cream
+  - light-blue
   - red
   - gold
 facing: right
+view: three-quarter
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

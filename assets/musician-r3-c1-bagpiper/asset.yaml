@@ -1,27 +1,40 @@
+# descriptive: find it and understand it
 id: musician-r3-c1-bagpiper
-title: Musician r3 c1 bagpiper
-description: A standing human facing right wears a green tunic, red sleeves and stockings, and a cream cap, playing a red patterned bagpipe with long green pipes extending left and right.
+title: Standing bagpiper with two long pipes
+description: A standing musician in a white coif, a green tunic and red hose plays a red diapered bagpipe with two long green pipes, the drone extending left over the shoulder and the chanter extending right; faces right on a transparent background.
 type: illustration
 categories:
   - humans
   - music
 subjects:
+  - musician
   - human
   - bagpipes
+  - cap
 colors:
   - green
   - red
   - cream
+  - orange
 facing: right
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

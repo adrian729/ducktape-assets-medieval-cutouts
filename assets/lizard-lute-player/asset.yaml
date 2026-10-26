@@ -1,28 +1,42 @@
+# descriptive: find it and understand it
 id: lizard-lute-player
-title: Lizard lute player
-description: A gold lizard in a blue cap and tunic plays a pink and gold lute facing right, with clawed feet and a tail curving left.
+title: Lizard in a blue tunic playing a lute
+description: A gold spotted lizard with clawed feet and a long tail curling to the left wears a blue tasselled cap, a white collar and a pleated blue tunic, and strums a pink and gold lute whose neck points right; it faces right on a transparent background.
 type: illustration
 categories:
   - animals
   - fantasy
   - music
 subjects:
+  - musician
   - lizard
   - lute
+  - cap
 colors:
   - gold
   - blue
   - pink
+  - white
 facing: right
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Tall cut-out (2:3).
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 140
+  - 520
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

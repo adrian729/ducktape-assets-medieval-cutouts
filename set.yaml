@@ -1,10 +1,18 @@
 id: medieval-cutouts
 title: Medieval cutouts
-summary: Draft set of 41 pieces imported from the old library's medieval-cutouts collection; origin not recorded.
+summary: A legacy collection of 41 painted cut-outs in a medieval manuscript style (animal and human musicians, drolleries, readers and single animals) whose origin was never recorded.
 kind: imported
 author: adrian729
 maintainer: https://github.com/adrian729/ducktape-assets/issues
 license:
   artwork: CC-BY-4.0
   notes: Origin unrecorded; attribution to adrian729. Removed on any rights claim.
-tags: []
+period: unrecorded; medieval manuscript style
+region: unrecorded; medieval manuscript style
+style: medieval manuscript style
+tags:
+  - medieval
+  - cutouts
+  - musicians
+  - animals
+  - drolleries

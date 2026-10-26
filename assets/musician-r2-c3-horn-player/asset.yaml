@@ -1,28 +1,41 @@
+# descriptive: find it and understand it
 id: musician-r2-c3-horn-player
-title: Musician r2 c3 horn player
-description: A seated human facing right wears a dark blue robe and cream cap, playing a large gold-green horn that curves upward to the right.
+title: Seated musician blowing a large curved horn
+description: A seated musician in a white coif, a dark blue robe and a red belt blows a large gold-green horn that curves up to the right; faces right on a transparent background.
 type: illustration
 categories:
   - humans
   - music
 subjects:
+  - musician
   - human
   - horn
+  - cap
 colors:
   - blue
-  - cream
   - gold
   - green
+  - cream
+  - red
 facing: right
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

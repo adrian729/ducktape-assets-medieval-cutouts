@@ -1,29 +1,42 @@
+# descriptive: find it and understand it
 id: musician-r2-c2-bagpiper
-title: Musician r2 c2 bagpiper
-description: A standing human facing right wears a green tunic, red sleeves, blue stockings, and a cream cap, playing pale gold bagpipes held against the chest.
+title: Standing bagpiper in a green tunic
+description: A standing musician in a white coif, a long green tunic with red sleeves and blue hose holds a pale bag against the chest and fingers a gold chanter with a crowned stock pointing down to the right; faces right on a transparent background.
 type: illustration
 categories:
   - humans
   - music
 subjects:
+  - musician
   - human
   - bagpipes
+  - cap
 colors:
   - green
   - red
-  - blue
   - cream
+  - blue
   - gold
 facing: right
+view: three-quarter
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Tall cut-out (2:3).
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 130
+  - 512
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

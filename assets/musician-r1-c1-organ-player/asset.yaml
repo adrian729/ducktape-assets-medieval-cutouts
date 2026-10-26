@@ -1,27 +1,41 @@
+# descriptive: find it and understand it
 id: musician-r1-c1-organ-player
-title: Musician r1 c1 organ player
-description: A seated human facing right wears a patterned cream cap, red sleeves, and a brown robe, holding small vertical organ pipes and gesturing right.
+title: Seated musician holding a portative organ
+description: A seated musician in a white patterned cap, red sleeves and a brown fur-lined robe holds a small portative organ on the lap with one hand and gestures to the right with the other; faces right on a transparent background.
 type: illustration
 categories:
   - humans
   - music
 subjects:
+  - musician
   - human
   - organ
+  - cap
 colors:
-  - cream
-  - red
   - brown
+  - red
+  - cream
+  - white
+  - gray
 facing: right
+view: three-quarter
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

@@ -1,6 +1,7 @@
+# descriptive: find it and understand it
 id: crowned-cat
-title: Crowned cat
-description: A seated cream-colored cat with a long striped tail wears an ornate gold crown and shows a red tongue, looking mostly toward the viewer.
+title: Seated cat wearing a gold crown
+description: A shaggy cream-colored cat with a striped tail sits upright wearing a tall leafy gold crown, with red inner ears and a red tongue sticking out; it faces the viewer in three-quarter view on a transparent background.
 type: illustration
 categories:
   - animals
@@ -10,19 +11,28 @@ subjects:
   - crown
 colors:
   - cream
-  - brown
   - gold
+  - brown
   - red
 facing: viewer
+view: three-quarter
 composition: single-figure
+
+# structural: how it is organised and related
+group: animals
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 140
+  - 560
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

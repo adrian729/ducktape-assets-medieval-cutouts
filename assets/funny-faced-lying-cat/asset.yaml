@@ -1,6 +1,7 @@
+# descriptive: find it and understand it
 id: funny-faced-lying-cat
-title: Funny faced lying cat
-description: A lying orange-brown tabby cat faces the viewer with tucked front paws, tall triangular ears, broad eyes, and a funny almost human-looking expression in a softly textured painting.
+title: Lying tabby cat with a worried face
+description: An orange and brown tabby cat lies with its front paws tucked under its chest and looks straight at the viewer with a wide-eyed, almost human expression; thickly painted texture on a transparent background.
 type: illustration
 categories:
   - animals
@@ -10,16 +11,27 @@ colors:
   - orange
   - brown
   - cream
+  - white
 facing: viewer
+view: front
 composition: single-figure
+
+# structural: how it is organised and related
+group: animals
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Painterly rather than line-drawn; it sits apart from the manuscript-style figures.
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 640
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

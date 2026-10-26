@@ -1,28 +1,43 @@
+# descriptive: find it and understand it
 id: anafiles
-title: Anafiles
-description: Two seated human musicians facing left play long gold trumpets with red pennants inside a blue rectangular manuscript frame.
+title: Two añafil players in a framed miniature
+description: Two seated musicians in red and purple robes, on gold chairs inside a blue framed miniature, blow long straight gold trumpets (añafiles) hung with heraldic pennants; they face left. The frame and blue ground are part of the image; only the area outside the frame is transparent.
 type: illustration
 categories:
   - humans
   - music
 subjects:
+  - musician
   - human
   - trumpet
+  - pennant
+  - chair
+  - frame
 colors:
   - blue
   - red
   - gold
   - purple
+  - white
 facing: left
+view: side
 composition: framed-scene
+
+# structural: how it is organised and related
+group: scenes
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Complete framed miniature with its own blue background; place it as a picture, not as a cut-out.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 240
+  - 960
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

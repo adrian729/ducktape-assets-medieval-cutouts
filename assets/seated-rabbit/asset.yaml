@@ -1,6 +1,7 @@
+# descriptive: find it and understand it
 id: seated-rabbit
-title: Seated rabbit
-description: A tired-looking seated cream-colored rabbit faces right with tall ears, a half-closed eye, blue-green hindquarters and legs, and a thick black outline.
+title: Seated rabbit in bold outline
+description: A cream rabbit with pale blue ears, legs and underside sits facing right with a half-closed eye and a thick black outline, in a coloured woodcut-like style; transparent background.
 type: illustration
 categories:
   - animals
@@ -8,19 +9,27 @@ subjects:
   - rabbit
 colors:
   - cream
-  - blue
-  - green
+  - light-blue
   - black
 facing: right
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: animals
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 640
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

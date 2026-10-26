@@ -1,27 +1,40 @@
+# descriptive: find it and understand it
 id: bunny-trumpet
-title: Bunny trumpet
-description: A seated brown rabbit facing left plays a long gold trumpet extending to the left.
+title: Rabbit blowing a long trumpet
+description: A seated brown rabbit with upright ears blows a long straight gold trumpet that stretches to the left edge of the image; it faces left on a transparent background. Wide landscape cut-out with the trumpet bell at the far left.
 type: illustration
 categories:
   - animals
   - fantasy
   - music
 subjects:
+  - musician
   - rabbit
   - trumpet
 colors:
   - brown
   - gold
+  - tan
 facing: left
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - The trumpet makes the figure wide (3:2); leave room on the left for the bell.
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 200
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

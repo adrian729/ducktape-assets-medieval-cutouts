@@ -1,6 +1,7 @@
+# descriptive: find it and understand it
 id: frog
-title: Frog
-description: A broad green frog with dark spots crouches facing left.
+title: Spotted green frog
+description: A broad green frog with dark spots and a yellow-ringed eye crouches in side view, facing left; transparent background. Wide landscape cut-out.
 type: illustration
 categories:
   - animals
@@ -9,16 +10,26 @@ subjects:
 colors:
   - green
   - black
+  - yellow
 facing: left
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: animals
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

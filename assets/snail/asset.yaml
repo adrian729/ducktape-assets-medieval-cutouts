@@ -1,24 +1,35 @@
+# descriptive: find it and understand it
 id: snail
-title: Snail
-description: An orange-brown snail faces right with long feelers and a large brown spiral shell.
+title: Snail with a spiral shell
+description: A snail with an orange-tan body, two long feelers and a large brown spiral shell crawls to the right; transparent background. Wide landscape cut-out (2:1).
 type: illustration
 categories:
   - animals
 subjects:
   - snail
 colors:
-  - orange
   - brown
+  - orange
+  - tan
 facing: right
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: animals
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

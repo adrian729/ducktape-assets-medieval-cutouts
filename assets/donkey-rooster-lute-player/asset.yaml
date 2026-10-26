@@ -1,6 +1,7 @@
+# descriptive: find it and understand it
 id: donkey-rooster-lute-player
-title: Donkey rooster lute player
-description: A half-donkey, half-rooster hybrid facing right wears an orange tunic and black waist pouch, with a gray donkey head, gold rooster legs, and a green feathered tail, playing a gold lute.
+title: Donkey-headed rooster playing a lute
+description: A hybrid with a gray donkey head, an orange hooded tunic, a black belt pouch, gold rooster legs and a green feathered tail plays a gold lute while a white pipe hangs under its arm; it faces right on a transparent background.
 type: illustration
 categories:
   - animals
@@ -8,25 +9,38 @@ categories:
   - fantasy
   - music
 subjects:
+  - musician
   - donkey
   - rooster
   - lute
+  - pipe
+  - hood
+  - drollery
 colors:
-  - gray
   - orange
+  - gray
   - gold
   - green
   - black
 facing: right
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 140
+  - 560
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

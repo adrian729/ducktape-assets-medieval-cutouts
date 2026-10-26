@@ -1,6 +1,7 @@
+# descriptive: find it and understand it
 id: curled-cat
-title: Curled cat
-description: A brown and gold cat curls into a compact rounded shape with its tail over its body and its face tilted toward the viewer.
+title: Cat curled into a ball
+description: A brown cat with gold highlights lies curled into a tight ball, its tail wrapped over its body and its face at the bottom turned toward the viewer; bold outlined print-like style on a transparent background.
 type: illustration
 categories:
   - animals
@@ -10,16 +11,25 @@ colors:
   - brown
   - gold
   - black
+  - gray
 facing: viewer
 composition: single-figure
+
+# structural: how it is organised and related
+group: animals
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 640
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

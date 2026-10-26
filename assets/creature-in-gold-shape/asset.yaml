@@ -1,27 +1,39 @@
+# descriptive: find it and understand it
 id: creature-in-gold-shape
-title: Creature in gold shape
-description: A pale grotesque creature with a round face, dark mouthpiece-like object, raised arm, large curved pale body, and curling appendages sits within a curved gold form with a pointed upper-right extension.
+title: Pale creature curled inside a gold form
+description: A white monkey-like creature with large round eyes bites its own tail while curled inside a hooked gold shape that ends in a pointed spike at the top right, like a fragment of a decorated letter; it looks toward the viewer on a transparent background.
 type: illustration
 categories:
   - fantasy
 subjects:
   - creature
-  - gold-shape
+  - animal-like-creature
+  - drollery
 colors:
-  - cream
   - gold
+  - white
+  - cream
   - black
 facing: viewer
 composition: single-figure
+
+# structural: how it is organised and related
+group: creatures
 render:
   image: {}
 usage_notes:
-  - The pale curved body inside the gold form is opaque artwork. The corrected extraction is capped at the supplied source's 650px longest edge.
+  - The gold form reads as a loose initial or hook but is not a usable letter.
+  - Small master (563 px wide); keep it small.
   - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
-status: draft
-review: pending
+display_width:
+  - 120
+  - 560
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
+quality: Low-resolution master (563 × 650 px) with soft, slightly rough line work.
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null

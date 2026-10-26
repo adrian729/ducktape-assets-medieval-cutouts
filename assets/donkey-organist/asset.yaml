@@ -1,12 +1,14 @@
+# descriptive: find it and understand it
 id: donkey-organist
-title: Donkey organist
-description: A seated gray donkey facing right plays a tall gold pipe organ positioned to its right.
+title: Donkey playing a portative organ
+description: A gray donkey with tall ears sits on the ground facing right and plays a gold portative organ with a row of pipes that stands to its right; transparent background.
 type: illustration
 categories:
   - animals
   - fantasy
   - music
 subjects:
+  - musician
   - donkey
   - organ
 colors:
@@ -14,15 +16,25 @@ colors:
   - gold
   - brown
 facing: right
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - The organ fills the right half; the donkey alone occupies the left half.
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 160
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

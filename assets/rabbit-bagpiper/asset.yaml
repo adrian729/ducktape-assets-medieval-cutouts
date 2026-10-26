@@ -1,28 +1,41 @@
+# descriptive: find it and understand it
 id: rabbit-bagpiper
-title: Rabbit bagpiper
-description: An upright gray rabbit faces left while playing pale round bagpipes, with a short pipe on the left and a very long gold pipe extending right.
+title: Rabbit playing bagpipes with a long drone
+description: A gray-brown rabbit stands on its hind legs facing left and blows a bagpipe with a pale round bag, a short chanter pointing down-left and a very long gold drone stretching to the right edge; transparent background. Wide landscape cut-out.
 type: illustration
 categories:
   - animals
   - fantasy
   - music
 subjects:
+  - musician
   - rabbit
   - bagpipes
 colors:
   - gray
+  - brown
   - cream
   - gold
 facing: left
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
+group: musicians
 render:
   image: {}
-status: draft
-review: pending
+usage_notes:
+  - The drone makes the figure wide (7:5); leave room on the right.
+  - Cut-out figure on a transparent background; flip horizontally if it must face the other way.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+display_width:
+  - 200
+  - 740
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
-provenance:
-  method: ai-assisted-extraction
+provenance: null
 license: null
-usage_notes:
-  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
