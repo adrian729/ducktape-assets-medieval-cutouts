@@ -22,7 +22,7 @@ view: three-quarter
 composition: single-figure
 
 # structural: how it is organised and related
-group: musicians
+group: human-musicians
 render:
   image: {}
 usage_notes:

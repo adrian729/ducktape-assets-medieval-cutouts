@@ -18,7 +18,7 @@ facing: viewer
 composition: single-figure
 
 # structural: how it is organised and related
-group: creatures
+group: animals
 render:
   image: {}
 usage_notes:

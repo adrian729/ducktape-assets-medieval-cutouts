@@ -28,41 +28,41 @@ Package `@ranx729/ducktape-assets-medieval-cutouts`; every file, width and forma
 | `anafiles` | Two añafil players in a framed miniature | illustration | 964 × 670 | scenes | approved |
 | `animal-choir-landscape` | Cattle singing at a music stand | illustration | 2135 × 737 | scenes | approved |
 | `animal-musicians-ensemble` | Animal musicians in a framed miniature | illustration | 720 × 533 | scenes | approved |
-| `bird-wind-player` | Bird-like creature playing a shawm | illustration | 1211 × 1299 | musicians | approved |
-| `boar-lute-player` | Boar playing a lute | illustration | 1177 × 1337 | musicians | approved |
-| `bunny-harp` | Rabbit playing a harp | illustration | 1021 × 1541 | musicians | approved |
-| `bunny-trumpet` | Rabbit blowing a long trumpet | illustration | 1536 × 1024 | musicians | approved |
-| `canine-fiddle-player` | Dog-headed fiddler striding left | illustration | 1188 × 1324 | musicians | approved |
-| `cat-bagpiper` | White cat playing bagpipes | illustration | 1213 × 1296 | musicians | approved |
-| `cat-reading-book` | Cat with an open book | illustration | 1254 × 1254 | readers | approved |
-| `creature-in-gold-shape` | Pale creature curled inside a gold form | illustration | 563 × 650 | creatures | approved |
+| `bird-wind-player` | Bird-like creature playing a shawm | illustration | 1211 × 1299 | animal-musicians | approved |
+| `boar-lute-player` | Boar playing a lute | illustration | 1177 × 1337 | animal-musicians | approved |
+| `bunny-harp` | Rabbit playing a harp | illustration | 1021 × 1541 | animal-musicians | approved |
+| `bunny-trumpet` | Rabbit blowing a long trumpet | illustration | 1536 × 1024 | animal-musicians | approved |
+| `canine-fiddle-player` | Dog-headed fiddler striding left | illustration | 1188 × 1324 | animal-musicians | approved |
+| `cat-bagpiper` | White cat playing bagpipes | illustration | 1213 × 1296 | animal-musicians | approved |
+| `cat-reading-book` | Cat with an open book | illustration | 1254 × 1254 | animals | approved |
+| `creature-in-gold-shape` | Pale creature curled inside a gold form | illustration | 563 × 650 | animals | approved |
 | `crowned-cat` | Seated cat wearing a gold crown | illustration | 1111 × 1415 | animals | approved |
 | `curled-cat` | Cat curled into a ball | illustration | 1414 × 1112 | animals | approved |
-| `donkey-organist` | Donkey playing a portative organ | illustration | 1211 × 1299 | musicians | approved |
-| `donkey-rooster-lute-player` | Donkey-headed rooster playing a lute | illustration | 1121 × 1403 | musicians | approved |
-| `fish-with-arms` | Fish with human arms raised | illustration | 1325 × 1187 | creatures | approved |
-| `flying-pig` | Flying pig with gold wings | illustration | 1254 × 1254 | creatures | approved |
+| `donkey-organist` | Donkey playing a portative organ | illustration | 1211 × 1299 | animal-musicians | approved |
+| `donkey-rooster-lute-player` | Donkey-headed rooster playing a lute | illustration | 1121 × 1403 | animal-musicians | approved |
+| `fish-with-arms` | Fish with human arms raised | illustration | 1325 × 1187 | animals | approved |
+| `flying-pig` | Flying pig with gold wings | illustration | 1254 × 1254 | animals | approved |
 | `frog` | Spotted green frog | illustration | 1774 × 887 | animals | approved |
 | `funny-faced-lying-cat` | Lying tabby cat with a worried face | illustration | 1448 × 1086 | animals | approved |
-| `hooded-bagpiper` | Hooded bagpiper in orange | illustration | 962 × 1635 | musicians | approved |
-| `hooded-harp-player` | Harpist in a blue hood and gold tunic | illustration | 1089 × 1444 | musicians | approved |
-| `lizard-lute-player` | Lizard in a blue tunic playing a lute | illustration | 1024 × 1536 | musicians | approved |
-| `musician-r1-c1-organ-player` | Seated musician holding a portative organ | illustration | 1143 × 1376 | musicians | approved |
-| `musician-r1-c2-shawm-player` | Standing musician playing a shawm | illustration | 1143 × 1376 | musicians | approved |
-| `musician-r1-c3-horn-player` | Seated musician blowing a curved horn | illustration | 1143 × 1376 | musicians | approved |
-| `musician-r1-c4-horn-player` | Seated musician in red blowing a horn | illustration | 1143 × 1376 | musicians | approved |
-| `musician-r2-c1-bagpiper` | Seated bagpiper in a dark blue cape | illustration | 1143 × 1376 | musicians | approved |
-| `musician-r2-c2-bagpiper` | Standing bagpiper in a green tunic | illustration | 1024 × 1536 | musicians | approved |
-| `musician-r2-c3-horn-player` | Seated musician blowing a large curved horn | illustration | 1143 × 1376 | musicians | approved |
-| `musician-r2-c4-psaltery-player` | Seated musician playing a psaltery | illustration | 1143 × 1376 | musicians | approved |
-| `musician-r3-c1-bagpiper` | Standing bagpiper with two long pipes | illustration | 1143 × 1376 | musicians | approved |
-| `musician-r3-c2-lute-player` | Standing lutenist in a crenellated cap | illustration | 1024 × 1536 | musicians | approved |
-| `musician-r3-c3-lute-player` | Standing lutenist in a blue dotted skirt | illustration | 1024 × 1536 | musicians | approved |
-| `musician-r3-c4-pipe-player` | Seated musician playing a pipe | illustration | 1143 × 1376 | musicians | approved |
+| `hooded-bagpiper` | Hooded bagpiper in orange | illustration | 962 × 1635 | human-musicians | approved |
+| `hooded-harp-player` | Harpist in a blue hood and gold tunic | illustration | 1089 × 1444 | human-musicians | approved |
+| `lizard-lute-player` | Lizard in a blue tunic playing a lute | illustration | 1024 × 1536 | animal-musicians | approved |
+| `musician-r1-c1-organ-player` | Seated musician holding a portative organ | illustration | 1143 × 1376 | human-musicians | approved |
+| `musician-r1-c2-shawm-player` | Standing musician playing a shawm | illustration | 1143 × 1376 | human-musicians | approved |
+| `musician-r1-c3-horn-player` | Seated musician blowing a curved horn | illustration | 1143 × 1376 | human-musicians | approved |
+| `musician-r1-c4-horn-player` | Seated musician in red blowing a horn | illustration | 1143 × 1376 | human-musicians | approved |
+| `musician-r2-c1-bagpiper` | Seated bagpiper in a dark blue cape | illustration | 1143 × 1376 | human-musicians | approved |
+| `musician-r2-c2-bagpiper` | Standing bagpiper in a green tunic | illustration | 1024 × 1536 | human-musicians | approved |
+| `musician-r2-c3-horn-player` | Seated musician blowing a large curved horn | illustration | 1143 × 1376 | human-musicians | approved |
+| `musician-r2-c4-psaltery-player` | Seated musician playing a psaltery | illustration | 1143 × 1376 | human-musicians | approved |
+| `musician-r3-c1-bagpiper` | Standing bagpiper with two long pipes | illustration | 1143 × 1376 | human-musicians | approved |
+| `musician-r3-c2-lute-player` | Standing lutenist in a crenellated cap | illustration | 1024 × 1536 | human-musicians | approved |
+| `musician-r3-c3-lute-player` | Standing lutenist in a blue dotted skirt | illustration | 1024 × 1536 | human-musicians | approved |
+| `musician-r3-c4-pipe-player` | Seated musician playing a pipe | illustration | 1143 × 1376 | human-musicians | approved |
 | `musicians-and-dancers` | Musicians and dancers on a blue platform | illustration | 2032 × 774 | scenes | approved |
-| `rabbit-bagpiper` | Rabbit playing bagpipes with a long drone | illustration | 1484 × 1060 | musicians | approved |
-| `rabbit-reading-book` | Rabbit reading an open book | illustration | 1500 × 1049 | readers | approved |
+| `rabbit-bagpiper` | Rabbit playing bagpipes with a long drone | illustration | 1484 × 1060 | animal-musicians | approved |
+| `rabbit-reading-book` | Rabbit reading an open book | illustration | 1500 × 1049 | animals | approved |
 | `seated-rabbit` | Seated rabbit in bold outline | illustration | 1295 × 1214 | animals | approved |
 | `snail` | Snail with a spiral shell | illustration | 1774 × 887 | animals | approved |
-| `weird-dog` | Shaggy dog with a human face | illustration | 1385 × 1136 | creatures | approved |
-| `winged-rabbit` | Winged rabbit in flight | illustration | 1360 × 1156 | creatures | approved |
+| `weird-dog` | Shaggy dog with a human face | illustration | 1385 × 1136 | animals | approved |
+| `winged-rabbit` | Winged rabbit in flight | illustration | 1360 × 1156 | animals | approved |
