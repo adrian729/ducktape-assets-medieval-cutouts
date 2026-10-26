@@ -33,6 +33,7 @@ Package `@ranx729/ducktape-assets-medieval-cutouts`; every file, width and forma
 | `bunny-harp` | Rabbit playing a harp | illustration | 1021 × 1541 | musicians | approved |
 | `bunny-trumpet` | Rabbit blowing a long trumpet | illustration | 1536 × 1024 | musicians | approved |
 | `canine-fiddle-player` | Dog-headed fiddler striding left | illustration | 1188 × 1324 | musicians | approved |
+| `cat-bagpiper` | White cat playing bagpipes | illustration | 1213 × 1296 | musicians | approved |
 | `cat-reading-book` | Cat with an open book | illustration | 1254 × 1254 | readers | approved |
 | `creature-in-gold-shape` | Pale creature curled inside a gold form | illustration | 563 × 650 | creatures | approved |
 | `crowned-cat` | Seated cat wearing a gold crown | illustration | 1111 × 1415 | animals | approved |
@@ -64,5 +65,4 @@ Package `@ranx729/ducktape-assets-medieval-cutouts`; every file, width and forma
 | `seated-rabbit` | Seated rabbit in bold outline | illustration | 1295 × 1214 | animals | approved |
 | `snail` | Snail with a spiral shell | illustration | 1774 × 887 | animals | approved |
 | `weird-dog` | Shaggy dog with a human face | illustration | 1385 × 1136 | creatures | approved |
-| `white-animal-bagpiper` | White cat-like creature playing bagpipes | illustration | 1213 × 1296 | musicians | approved |
 | `winged-rabbit` | Winged rabbit in flight | illustration | 1360 × 1156 | creatures | approved |
