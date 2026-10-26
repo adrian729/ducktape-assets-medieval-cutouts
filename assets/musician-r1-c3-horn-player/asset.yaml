@@ -1,0 +1,28 @@
+id: musician-r1-c3-horn-player
+title: Musician r1 c3 horn player
+description: A seated human facing right wears a pointed red and blue cap and a red-brown tunic, playing a pale curved horn pointing upward to the right.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - human
+  - horn
+colors:
+  - red
+  - brown
+  - blue
+  - cream
+facing: right
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

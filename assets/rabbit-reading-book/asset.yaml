@@ -1,0 +1,28 @@
+id: rabbit-reading-book
+title: Rabbit reading book
+description: A brown rabbit with tall ears and a wide white eye leans left over an open pale book, with a paw resting on the marked pages.
+type: illustration
+categories:
+  - animals
+  - reading
+  - fantasy
+subjects:
+  - rabbit
+  - book
+colors:
+  - brown
+  - cream
+  - white
+facing: left
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

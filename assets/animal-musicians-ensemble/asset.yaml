@@ -1,0 +1,41 @@
+id: animal-musicians-ensemble
+title: Animal musicians ensemble
+description: "A complete framed manuscript scene on green grass with a patterned blue, gold, and pink background: animals gather around an open score, a bowed string player, a donkey at a pipe organ, white geese, a red animal with bagpipes and a drum, a pale animal ringing bells, and a harp lying on the ground."
+type: illustration
+categories:
+  - animals
+  - music
+  - fantasy
+subjects:
+  - animal-like-creature
+  - donkey
+  - goose
+  - organ
+  - fiddle
+  - bagpipes
+  - drum
+  - bells
+  - harp
+  - music-stand
+  - score
+colors:
+  - green
+  - blue
+  - gold
+  - pink
+  - red
+  - brown
+  - white
+facing: mixed
+composition: framed-scene
+render:
+  image: {}
+usage_notes:
+  - Complete supplied scene, including its patterned background and frame, preserved unchanged.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance: null
+license: null

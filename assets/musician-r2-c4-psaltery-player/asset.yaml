@@ -1,0 +1,28 @@
+id: musician-r2-c4-psaltery-player
+title: Musician r2 c4 psaltery player
+description: A seated human in a dark robe and patterned cap looks down toward the left while playing a large gold psaltery held diagonally across the lap.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - human
+  - psaltery
+colors:
+  - black
+  - gray
+  - gold
+  - cream
+facing: left
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

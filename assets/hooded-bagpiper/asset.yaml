@@ -1,0 +1,29 @@
+id: hooded-bagpiper
+title: Hooded bagpiper
+description: A standing human facing right wears a pointed red-orange hood and tunic with green lining and black shoes, playing pale bagpipes with a long pipe extending left.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - human
+  - bagpipes
+colors:
+  - orange
+  - red
+  - green
+  - cream
+  - black
+facing: right
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

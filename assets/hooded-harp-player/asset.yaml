@@ -1,0 +1,28 @@
+id: hooded-harp-player
+title: Hooded harp player
+description: A standing human facing left wears a tall blue hood, gold tunic, black leggings, and black shoes, playing a large gold harp held to the right.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - human
+  - harp
+colors:
+  - blue
+  - gold
+  - black
+  - cream
+facing: left
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

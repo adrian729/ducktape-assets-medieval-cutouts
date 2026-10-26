@@ -1,0 +1,28 @@
+id: anafiles
+title: Anafiles
+description: Two seated human musicians facing left play long gold trumpets with red pennants inside a blue rectangular manuscript frame.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - human
+  - trumpet
+colors:
+  - blue
+  - red
+  - gold
+  - purple
+facing: left
+composition: framed-scene
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

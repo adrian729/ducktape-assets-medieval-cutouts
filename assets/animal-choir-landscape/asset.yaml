@@ -1,0 +1,34 @@
+id: animal-choir-landscape
+title: Animal choir landscape
+description: A herd of cattle and a small hoofed animal face left toward a wooden music stand with an open score, with two small birds flying above and a narrow greenish ground strip beneath the full group.
+type: illustration
+categories:
+  - animals
+  - music
+  - fantasy
+subjects:
+  - cattle
+  - animal-like-creature
+  - bird
+  - music-stand
+  - score
+colors:
+  - brown
+  - orange
+  - cream
+  - black
+  - green
+  - gold
+facing: left
+composition: multiple-figures
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

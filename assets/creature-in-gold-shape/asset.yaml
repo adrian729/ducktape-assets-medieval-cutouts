@@ -1,0 +1,27 @@
+id: creature-in-gold-shape
+title: Creature in gold shape
+description: A pale grotesque creature with a round face, dark mouthpiece-like object, raised arm, large curved pale body, and curling appendages sits within a curved gold form with a pointed upper-right extension.
+type: illustration
+categories:
+  - fantasy
+subjects:
+  - creature
+  - gold-shape
+colors:
+  - cream
+  - gold
+  - black
+facing: viewer
+composition: single-figure
+render:
+  image: {}
+usage_notes:
+  - The pale curved body inside the gold form is opaque artwork. The corrected extraction is capped at the supplied source's 650px longest edge.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null

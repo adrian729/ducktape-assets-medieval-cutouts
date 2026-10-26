@@ -1,0 +1,29 @@
+id: musician-r1-c2-shawm-player
+title: Musician r1 c2 shawm player
+description: A standing human facing right wears a cream cap, dark blue tunic, and red stockings, playing a long straight gold shawm extending right.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - human
+  - shawm
+colors:
+  - cream
+  - blue
+  - red
+  - gold
+  - green
+facing: right
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

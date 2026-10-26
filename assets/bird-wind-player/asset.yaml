@@ -1,0 +1,30 @@
+id: bird-wind-player
+title: Bird wind player
+description: A dark bird-like creature with human arms and a pale blue patterned belly plays a long red and gold wind instrument facing left.
+type: illustration
+categories:
+  - animals
+  - hybrids
+  - fantasy
+  - music
+subjects:
+  - bird-like-creature
+  - wind-instrument
+colors:
+  - black
+  - blue
+  - red
+  - gold
+facing: left
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

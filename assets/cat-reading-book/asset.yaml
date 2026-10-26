@@ -1,0 +1,29 @@
+id: cat-reading-book
+title: Cat reading book
+description: A seated blue-gray cat with a long striped tail and thin whiskers tilts its head up-right beside an open pale book, with a paw on the pages.
+type: illustration
+categories:
+  - animals
+  - reading
+  - fantasy
+subjects:
+  - cat
+  - book
+colors:
+  - blue
+  - gray
+  - cream
+  - brown
+facing: right
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

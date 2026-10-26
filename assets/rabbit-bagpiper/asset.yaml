@@ -1,0 +1,28 @@
+id: rabbit-bagpiper
+title: Rabbit bagpiper
+description: An upright gray rabbit faces left while playing pale round bagpipes, with a short pipe on the left and a very long gold pipe extending right.
+type: illustration
+categories:
+  - animals
+  - fantasy
+  - music
+subjects:
+  - rabbit
+  - bagpipes
+colors:
+  - gray
+  - cream
+  - gold
+facing: left
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

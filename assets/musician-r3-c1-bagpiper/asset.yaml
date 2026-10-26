@@ -1,0 +1,27 @@
+id: musician-r3-c1-bagpiper
+title: Musician r3 c1 bagpiper
+description: A standing human facing right wears a green tunic, red sleeves and stockings, and a cream cap, playing a red patterned bagpipe with long green pipes extending left and right.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - human
+  - bagpipes
+colors:
+  - green
+  - red
+  - cream
+facing: right
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

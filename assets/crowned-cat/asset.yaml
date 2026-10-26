@@ -1,0 +1,28 @@
+id: crowned-cat
+title: Crowned cat
+description: A seated cream-colored cat with a long striped tail wears an ornate gold crown and shows a red tongue, looking mostly toward the viewer.
+type: illustration
+categories:
+  - animals
+  - royalty
+subjects:
+  - cat
+  - crown
+colors:
+  - cream
+  - brown
+  - gold
+  - red
+facing: viewer
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

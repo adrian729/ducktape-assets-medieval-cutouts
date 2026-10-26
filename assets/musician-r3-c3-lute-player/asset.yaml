@@ -1,0 +1,29 @@
+id: musician-r3-c3-lute-player
+title: Musician r3 c3 lute player
+description: A standing brown-haired human wears a red jacket, dark blue dotted skirt, and red stockings, looking down toward the left while playing a pale lute with its neck pointing up-right.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - human
+  - lute
+colors:
+  - brown
+  - red
+  - blue
+  - cream
+  - green
+facing: left
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

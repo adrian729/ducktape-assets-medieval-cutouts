@@ -1,0 +1,28 @@
+id: fish-with-arms
+title: Fish with arms
+description: A blue-green fish faces right with two pale human arms raised above its back and red cloth between them.
+type: illustration
+categories:
+  - animals
+  - hybrids
+  - fantasy
+subjects:
+  - fish
+colors:
+  - blue
+  - green
+  - cream
+  - red
+facing: right
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

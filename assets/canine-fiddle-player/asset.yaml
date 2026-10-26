@@ -1,0 +1,30 @@
+id: canine-fiddle-player
+title: Canine fiddle player
+description: A canine-headed figure in a blue tunic, red collar, and black boots strides left while playing a bowed fiddle, with its snout tilted upward.
+type: illustration
+categories:
+  - animals
+  - hybrids
+  - fantasy
+  - music
+subjects:
+  - canine-like-creature
+  - fiddle
+colors:
+  - blue
+  - red
+  - brown
+  - black
+facing: left
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

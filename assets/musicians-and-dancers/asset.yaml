@@ -1,0 +1,36 @@
+id: musicians-and-dancers
+title: Musicians and dancers
+description: A bagpiper and two figures with a suspended gold drum accompany four dancers on a blue patterned platform with red and gold edges, beside a curling green vine with red, blue, and gold leaves at the left.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - human
+  - bagpipes
+  - drum
+  - dancer
+  - vine
+colors:
+  - blue
+  - green
+  - red
+  - gold
+  - brown
+  - cream
+  - gray
+  - pink
+facing: mixed
+composition: multiple-figures
+render:
+  image: {}
+usage_notes:
+  - Seven figures, the left vine and platform are retained; the cropped right vine, parchment and inscription were removed. See the recorded extraction prompt.
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null

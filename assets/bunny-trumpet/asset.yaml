@@ -1,0 +1,27 @@
+id: bunny-trumpet
+title: Bunny trumpet
+description: A seated brown rabbit facing left plays a long gold trumpet extending to the left.
+type: illustration
+categories:
+  - animals
+  - fantasy
+  - music
+subjects:
+  - rabbit
+  - trumpet
+colors:
+  - brown
+  - gold
+facing: left
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

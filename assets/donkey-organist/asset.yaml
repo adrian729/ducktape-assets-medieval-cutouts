@@ -1,0 +1,28 @@
+id: donkey-organist
+title: Donkey organist
+description: A seated gray donkey facing right plays a tall gold pipe organ positioned to its right.
+type: illustration
+categories:
+  - animals
+  - fantasy
+  - music
+subjects:
+  - donkey
+  - organ
+colors:
+  - gray
+  - gold
+  - brown
+facing: right
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.

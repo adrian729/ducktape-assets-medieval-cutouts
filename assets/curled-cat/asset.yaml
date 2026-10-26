@@ -1,0 +1,25 @@
+id: curled-cat
+title: Curled cat
+description: A brown and gold cat curls into a compact rounded shape with its tail over its body and its face tilted toward the viewer.
+type: illustration
+categories:
+  - animals
+subjects:
+  - cat
+colors:
+  - brown
+  - gold
+  - black
+facing: viewer
+composition: single-figure
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+license: null
+usage_notes:
+  - Origin unrecorded; attribution to adrian729. Removed on any rights claim.
